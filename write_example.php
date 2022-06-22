@@ -2,7 +2,7 @@
 
 $testArray = [1, 2, 3, 5, 9, 8];
 
-$anotherArray = [0, 0, 0, 0, 0];
+$anotherArray = [0, 0, 0, 0, 0, 3];
 
 $fp = fopen ('example.txt', 'a+');
 
